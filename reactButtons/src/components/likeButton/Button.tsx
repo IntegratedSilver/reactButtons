@@ -10,7 +10,7 @@ const Like: React.FC = () => {
 
   return (
     <button className={styles.button} onClick={handleClick}>
-      {liked ? <AiOutlineLike /> : <AiFillLike />}
+      {liked ? <AiFillLike /> : <AiOutlineLike />}
     </button>
   );
 };

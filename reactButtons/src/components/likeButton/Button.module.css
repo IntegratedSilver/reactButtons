@@ -1,3 +1,8 @@
+.button:hover {
+    color: #fff;
+    background-color: #0056b3;
+    border-color: #004085;
+  }
 .button {
     display: inline-block;
     font-weight: 400;
@@ -16,9 +21,5 @@
     border-color: #007bff;
   }
   
-  .button:hover {
-    color: #fff;
-    background-color: #0056b3;
-    border-color: #004085;
-  }
+
   
